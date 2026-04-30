@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @4lexCoding
-- 👀 I’m interested in ... being a great developer and learning all that I can, I am starting with web development & robotics with Arduino
-- 🌱 I’m currently learning ... Arduino, JavaScript, C#, HTML and CSS
-- 💞️ I’m looking to collaborate on ... Robotics or electronics projects & Web pages from basic level
-- 📫 How to reach me ... alejandrofav07@gmail.com
+# Alejandro Favero
 
-<!---
-4lexCoding/4lexCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+EE student at UNAM (Mexico City) interested in embedded systems,
+robotics, and control theory.
+
+## What I build
+- Autonomous robots — custom PCB, chassis, and firmware from scratch
+- Embedded systems on ESP32/Arduino, moving toward ROS on Raspberry Pi
+- Software tools for students
+
+## Recent work
+- **MiniSumo robot** — fully custom: PCB design, 3D printed chassis,
+  autonomous control logic. Placed 4th at Robomatrix Continental
+  (competing against university teams)
+- **[PhyMastery]** — building open-source student platform integrating scheduling,
+  AI tutoring, and peer connection
+
+## Currently learning
+- KiCad (migrating from EasyEDA)
+- ROS2
+- Control theory (PID, state-space)
+
+## Tools
+ESP32 · Arduino · KiCad · 3D printing · Python · C
